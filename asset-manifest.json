@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/storewebpage/static/css/main.707e54de.css",
+    "main.js": "/storewebpage/static/js/main.1c80036e.js",
+    "static/js/787.10560159.chunk.js": "/storewebpage/static/js/787.10560159.chunk.js",
+    "static/media/laptop2.png": "/storewebpage/static/media/laptop2.7856668a1dcf7c18c531.png",
+    "static/media/laptop3.png": "/storewebpage/static/media/laptop3.d54b0fc13727f97cea45.png",
+    "static/media/laptop1.png": "/storewebpage/static/media/laptop1.2403fa601d9932c0ef54.png",
+    "index.html": "/storewebpage/index.html",
+    "main.707e54de.css.map": "/storewebpage/static/css/main.707e54de.css.map",
+    "main.1c80036e.js.map": "/storewebpage/static/js/main.1c80036e.js.map",
+    "787.10560159.chunk.js.map": "/storewebpage/static/js/787.10560159.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.707e54de.css",
+    "static/js/main.1c80036e.js"
+  ]
+}
